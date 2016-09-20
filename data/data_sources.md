@@ -10,10 +10,6 @@ Table: "crime_incidents.csv"
 Source: https://data.austintexas.gov/Public-Safety/APD-Incident-Extract-YTD/b4y9-5x39
 Date Accessed: 9/11/2016
 
-Table: "crime_repeat offenders.csv"
-Source: https://data.austintexas.gov/Government/Repeat-Offender-Registrations/86z9-i27i
-Date Accessed: 9/11/2016
-
 Table: "environment_EV charging locations.csv"
 Source: https://data.austintexas.gov/Utility/Electric-Vehicle-Charging-Network/k5hp-eece
 Date Accessed: 9/11/2016
